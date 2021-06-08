@@ -1,3 +1,7 @@
 body {
-    color: #8f8f8f;
+    background-color: rgb(241, 5, 103);
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
